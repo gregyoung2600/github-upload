@@ -1,0 +1,3 @@
+notepad .README.md
+clear
+
